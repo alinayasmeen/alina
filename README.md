@@ -42,7 +42,7 @@ My mission is to create AI-powered tools that help patients understand their sym
 
 📫 **Connect with me:**  
 - [LinkedIn](https://www.linkedin.com/in/hafiza-alina-yasmeen-9a329a2b0)  
-- [Portfolio](https://anta-al-hayat.vercel.app)  
+- [Portfolio](https://alinayasmeenportfolio.netlify.app/)  
 - ✉️ alinayasmeen166@gmail.com  
 
 ---
