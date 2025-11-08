@@ -18,8 +18,8 @@ The website highlights my projects, skills, and experiences, and serves as a hub
 ## 🧠 Tech Stack
 - **Frontend:** Next.js, React, Tailwind CSS  
 - **AI Integration:** OpenAI API, Agents SDK  
-- **Version Control:** GitHub  
-- **Deployment:** Vercel  
+- **Version Control:** Git & GitHub  
+- **Deployment:** Netlify  
 
 ---
 
@@ -32,7 +32,7 @@ The website highlights my projects, skills, and experiences, and serves as a hub
 ---
 
 ## 🔗 Live Demo
-👉 [Visit My Portfolio](https://anta-al-hayat.vercel.app)
+👉 [Visit My Portfolio](https://alinayasmeenportfolio.netlify.app/)
 
 ---
 
